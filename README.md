@@ -8,7 +8,7 @@ The Cafe Management System project aims to simplify cafeteria management by prov
 
 ### Project Video
 
-Watch a demo of the project in action: [Project Video](
+Watch a demo of the project in action:(
 
 https://github.com/Bahri-Adem/Cafe-Management-System-Angular-SpringBoot/assets/103949052/1e1fc0f1-26c7-4306-96b7-f46d32899090
 
